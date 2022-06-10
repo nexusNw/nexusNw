@@ -88,7 +88,7 @@ Itz that what You reading / My Readme md.
 
   <a href="https://instagram.com/Z3NON.Z"><img src="https://img.shields.io/badge/Instagram-E440?style=flat-cirlce&logo=instagram" />
   <a href="https://github.com/nexusNw"><img src="https://img.shields.io/badge/-GitHub-blue?style=flat-cirlce&logo=github" /> 
-    <a href="https://t.me/@N3XU52"><img src="https://img.shields.io/badge/-Telegram-white?style=flat-cirlce&logo=telegram" /> 
+    <a href="https://t.me/N3XU52"><img src="https://img.shields.io/badge/-Telegram-white?style=flat-cirlce&logo=telegram" /> 
 
 
 
@@ -100,35 +100,13 @@ Itz that what You reading / My Readme md.
 </details>
 
 
-----
-
-----
-
-<b><details><summary>Thanks (change into desktop mode on)</summary></b>
-
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/J0hKr">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=TᕼᗩᑎKՏ+ᖴOᖇ+ᐯIՏITIᑎᘜ....."
+            alt="nexusNw Typing SVG"
 
 </p>
 
 
-```
-
-████████╗██╗░░██╗░█████╗░███╗░░██╗██╗░░██╗░██████╗
-╚══██╔══╝██║░░██║██╔══██╗████╗░██║██║░██╔╝██╔════╝
-░░░██║░░░███████║███████║██╔██╗██║█████═╝░╚█████╗░
-░░░██║░░░██╔══██║██╔══██║██║╚████║██╔═██╗░░╚═══██╗
-░░░██║░░░██║░░██║██║░░██║██║░╚███║██║░╚██╗██████╔╝
-░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚═════╝░
-
-
-
-          
-         ██████╗░██████╗░░█████╗░██╗░░██╗
-         ██╔══██╗██╔══██╗██╔══██╗██║░░██║
-         ██████╦╝██████╔╝██║░░██║███████║
-         ██╔══██╗██╔══██╗██║░░██║██╔══██║
-         ██████╦╝██║░░██║╚█████╔╝██║░░██║
-         ╚═════╝░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝
-
-```
-
-</details>
