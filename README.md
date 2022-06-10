@@ -1,43 +1,134 @@
-<div>
-<img src="./img/Profile-elaina.png" width="300" align="right" />
-<br/>
+ <p align="center">
+(<img src="https://i.imgur.com/vgElvfV.jpeg" alt="nexus" width="350" height="400"/>
+</p>
+    </a>
+</p>
+<br> 
+
+
+```
+
+ Yo minna , Scroll abd Click Below To More Knowledge ✅🎉 .
+
+```
+
+
+-----
+
+-----
+
+
 <img src="./img/AboutMe-elaina.png" width="500" />
 <br/>
+
+<b><details><summary>Click Here to Know me</summary></b>
+
+<img src="https://i.imgur.com/hDnguFu.jpeg" width="300" align="Center" />
+<br/>
+
 <br/>
   
-- Name **Reidho Satria**
+- Name **nexusNw/Z3non.z**
 
-- Live in **Palembang, Indonesia**
+- Live in **Kerala, India**
+- Studying in [***College***](https://www.google.com/search?q=college&oq=college&aqs=chrome..69i57j46i512j46i433i512j46i131i199i433i465i512j46i512.2373j0j4&client=ms-android-hmd-rev2&sourceid=chrome-mobile&ie=UTF-8)
 
-- Studying [***Computer And Network Engineering***](https://smkn4palembang.sch.id/)
+- Atleast Good with **Javascript** 
 
-- Good with **Javascript** & **NodeJS**
+- Mainly Focus on making Whatsapp Bots
 
-- Have experience with **Photoshop** & **Premiere**
+- Have experience editing with [**Alight Motion**](https://www.google.com/url?sa=t&source=web&rct=j&url=https://play.google.com/store/apps/details%3Fid%3Dcom.alightcreative.motion%26hl%3Den_IN%26gl%3DUS%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Dalight%2Bmotion%26pcampaignid%3DAPPU_1_LAmjYrrQLIyaseMP2sKM-AQ&ved=2ahUKEwi6lvvVw6L4AhUMTWwGHVohA08Q5YQBegQIAxAC&usg=AOvVaw1hU3bQzlB35-J7CBxXMAFr) & [**Capcut**](https://www.google.com/url?sa=t&source=web&rct=j&url=https://play.google.com/store/apps/details%3Fid%3Dcom.lemon.lvoverseas%26hl%3Den%26gl%3DUS%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Dcapcut%26pcampaignid%3DAPPU_1_WwmjYtLwM-fLseMPrq6L-A4&ved=2ahUKEwiSirfsw6L4AhXnZWwGHS7XAu8Q5YQBegQIAxAC&usg=AOvVaw2rWpiN5ISe6nmvVTSTFY2l)
 
-- Understand 日本語, Bahasa, & English
-<img src="./img/Waifu-elainaa.png" width="300" align="right" />
-<br/>
+- I can Understand Japanese , Hindi  and many languages Wuth help of Google Translator 🙂
+
+- Mainly Understand English and Malayalam🎉✅
+
+</details>
+
+----
+
+----
 <img src="./img/Repo-elaina.png" width="500" />
 <br/>
+
+<b><details><summary>Click Here to see repos</summary></b>
+
+<img src="https://i.imgur.com/pGdhNzx.jpeg" width="300" align="Center" />
 <br/>
-  
-- 📗 [***Eilaluth/Ayano***](https://github.com/Eilaluth/Ayano) <br/>
-  A multipurpose bot for anything with 69 commands!
-- 📘 [***Eilaluth/Kyoko***](https://github.com/Eilaluth/Kyoko) <br/>
-  Random Anime Pictures And Quotes Rest API, Toshino Kyoko.
-- 📙 [***Eilaluth/Kanna***](https://github.com/Eilaluth/Kanna) <br/>
-  Kanna is bot designed for Anti Raid and Badword, Kanna can automatically ban someone who trying to spamming/raiding your server in second!
-- 📕 [***Eilaluth/Hotaru***](https://github.com/Eilaluth/Hotaru) <br/>
-  Genshin daily login reminder Discord Bot
-- 📒 [***Eilaluth/Mocha***](https://github.com/Eilaluth/Mocha) <br/>
-Discord self-bot designed to bumping Disboard.org every 2 hours.
 
 <br/>
-<img src="./img/banner-elainaa.png" width="500" /><br/>
   
-<sub> *“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina* </sub>
-<!--
-<img src="https://metrics.lecoq.io/Eilaluth?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&repositories.featured=Eilaluth%2FAyano%2CEilaluth%2FKyoko%2CEilaluth%2FKanna%2CEilaluth%2FHotaru%2CEilaluth%2FMocha&config.timezone=Asia%2FJakart"  />
--->
-</div>
+- 📗 [***nexusNw/Gojo-Satoru***](https://github.com/nexusNw/Gojo-Satoru) <br/>
+  Whatsapp Bot Which Supports In Multi Device With 50+ stars and 400+ Forks , And Can Deploy Through Heroku
+- 📘 [***nexusNw/Yuichan***](https://github.com/nexusNw/Yuichan) <br/>
+  A Whatsapp bot for legacy Whatsapp Users , which made 4,5 months ago/Not Maintained 
+- 📙 [***nexusNw/Raphtalia***](https://github.com/nexusNw/Raphtalia) (**Private**) <br/>
+  An Anime Void bot made by Typescript Which have 20+ anime features /Not Maintained
+- 📕 [***nexusNw/Rimuru-Tempest***](https://github.com/nexusNw/Rimuru-Tempest) (**Private**) <br/>
+  A Md whatsapp bot best for group Maintaining , changed to private becoz some problems in downloadings
+- 📒 [***nexusNw/NexusNw***](https://github.com/nexusNw/nexusNw) <br/>
+Itz that what You reading / My Readme md.
+
+</details>
+
+----
+
+----
+<img src="https://i.imgur.com/VxXEaXn.jpeg " width="400" />
+<br/>
+
+<b><details><summary>Social platforms</summary></b>
+
+<img src="https://i.imgur.com/I5vTuli.jpeg" height="250" width="500" />
+<br/>
+</p>
+
+``` Contact Developer ```
+<p align="center">
+
+  <a href="https://instagram.com/Z3NON.Z"><img src="https://img.shields.io/badge/Instagram-E440?style=flat-cirlce&logo=instagram" />
+  <a href="https://github.com/nexusNw"><img src="https://img.shields.io/badge/-GitHub-blue?style=flat-cirlce&logo=github" /> 
+    <a href="https://t.me/@N3XU52"><img src="https://img.shields.io/badge/-Telegram-white?style=flat-cirlce&logo=telegram" /> 
+
+
+
+</p>
+
+
+
+
+</details>
+
+
+----
+
+----
+
+<b><details><summary>Thanks (change into desktop mode on)</summary></b>
+
+
+</p>
+
+
+```
+
+████████╗██╗░░██╗░█████╗░███╗░░██╗██╗░░██╗░██████╗
+╚══██╔══╝██║░░██║██╔══██╗████╗░██║██║░██╔╝██╔════╝
+░░░██║░░░███████║███████║██╔██╗██║█████═╝░╚█████╗░
+░░░██║░░░██╔══██║██╔══██║██║╚████║██╔═██╗░░╚═══██╗
+░░░██║░░░██║░░██║██║░░██║██║░╚███║██║░╚██╗██████╔╝
+░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚═════╝░
+
+
+
+          
+         ██████╗░██████╗░░█████╗░██╗░░██╗
+         ██╔══██╗██╔══██╗██╔══██╗██║░░██║
+         ██████╦╝██████╔╝██║░░██║███████║
+         ██╔══██╗██╔══██╗██║░░██║██╔══██║
+         ██████╦╝██║░░██║╚█████╔╝██║░░██║
+         ╚═════╝░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝
+
+```
+
+</details>
