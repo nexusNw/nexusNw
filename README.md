@@ -57,7 +57,12 @@
 <br/>
 
 <br/>
-  
+
+
+- 📕 [***nexusNw/Izumi-MD***](https://github.com/nexusNw/Izumi-MD) <br/>
+  A Md Whatsapp .newly developed 🔗
+- 📒 [***nexusNw/Kanna-kamui***](https://github.com/nexusNw/Kanna-kamui) (**Private**) <br/>
+Running and hosting success but some commands are not fully ready.
 - 📗 [***nexusNw/Gojo-Satoru***](https://github.com/nexusNw/Gojo-Satoru) <br/>
   Whatsapp Bot Which Supports In Multi Device With 50+ stars and 400+ Forks , And Can Deploy Through Heroku
 - 📘 [***nexusNw/Yuichan***](https://github.com/nexusNw/Yuichan) <br/>
