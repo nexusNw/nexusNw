@@ -1,117 +1,25 @@
- <p align="center">
-(<img src="https://i.imgur.com/vgElvfV.jpeg" alt="nexus" width="350" height="400"/>
-</p>
-    </a>
-</p>
-<br> 
+<h1 align="center">Hi 👋, I'm nexusnw</h1>
+<h3 align="center">studying and training to be a developer ❤️</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nexusnw&label=Profile%20views&color=0e75b6&style=flat" alt="nexusnw" /> </p>
 
-```
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nexusnw" alt="nexusnw" /></a> </p>
 
- Yo minna , Scroll abd Click Below To More Knowledge ✅🎉 .
+- 🌱 I’m currently learning **Html ,css,java etc**
 
-```
+- ⚡ Fun fact **I love to spend time by using laptop🥲**
 
-
------
-
------
-
-
-<img src="./img/AboutMe-elaina.png" width="500" />
-<br/>
-
-<b><details><summary>Click Here to Know me</summary></b>
-
-<img src="https://i.imgur.com/hDnguFu.jpeg" width="300" align="Center" />
-<br/>
-
-<br/>
-  
-- Name **nexusNw/Z3non.z**
-
-- Live in **Kerala, India**
-- Studying in [***College***](https://www.google.com/search?q=college&oq=college&aqs=chrome..69i57j46i512j46i433i512j46i131i199i433i465i512j46i512.2373j0j4&client=ms-android-hmd-rev2&sourceid=chrome-mobile&ie=UTF-8)
-
-- Atleast Good with **Javascript** 
-
-- Mainly Focus on making Whatsapp Bots
-
-- Have experience editing with [**Alight Motion**](https://www.google.com/url?sa=t&source=web&rct=j&url=https://play.google.com/store/apps/details%3Fid%3Dcom.alightcreative.motion%26hl%3Den_IN%26gl%3DUS%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Dalight%2Bmotion%26pcampaignid%3DAPPU_1_LAmjYrrQLIyaseMP2sKM-AQ&ved=2ahUKEwi6lvvVw6L4AhUMTWwGHVohA08Q5YQBegQIAxAC&usg=AOvVaw1hU3bQzlB35-J7CBxXMAFr) & [**Capcut**](https://www.google.com/url?sa=t&source=web&rct=j&url=https://play.google.com/store/apps/details%3Fid%3Dcom.lemon.lvoverseas%26hl%3Den%26gl%3DUS%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Dcapcut%26pcampaignid%3DAPPU_1_WwmjYtLwM-fLseMPrq6L-A4&ved=2ahUKEwiSirfsw6L4AhXnZWwGHS7XAu8Q5YQBegQIAxAC&usg=AOvVaw2rWpiN5ISe6nmvVTSTFY2l)
-
-- I can Understand Japanese , Hindi  and many languages Wuth help of Google Translator 🙂
-
-- Mainly Understand English and Malayalam🎉✅
-
-</details>
-
-----
-
-----
-<img src="./img/Repo-elaina.png" width="500" />
-<br/>
-
-<b><details><summary>Click Here to see repos</summary></b>
-
-<img src="https://i.imgur.com/pGdhNzx.jpeg" width="300" align="Center" />
-<br/>
-
-<br/>
-
-
-- 📕 [***nexusNw/Izumi-MD***](https://github.com/nexusNw/Izumi-MD) <br/>
-  A Md Whatsapp .newly developed 🔗
-- 📒 [***nexusNw/Kanna-kamui***](https://github.com/nexusNw/Kanna-kamui) (**Private**) <br/>
-Running and hosting success but some commands are not fully ready.
-- 📗 [***nexusNw/Gojo-Satoru***](https://github.com/nexusNw/Gojo-Satoru) <br/>
-  Whatsapp Bot Which Supports In Multi Device With 50+ stars and 400+ Forks , And Can Deploy Through Heroku
-- 📘 [***nexusNw/Yuichan***](https://github.com/nexusNw/Yuichan) <br/>
-  A Whatsapp bot for legacy Whatsapp Users , which made 4,5 months ago/Not Maintained 
-- 📙 [***nexusNw/Raphtalia***](https://github.com/nexusNw/Raphtalia) (**Private**) <br/>
-  An Anime Void bot made by Typescript Which have 20+ anime features /Not Maintained
-- 📕 [***nexusNw/Rimuru-Tempest***](https://github.com/nexusNw/Rimuru-Tempest) (**Private**) <br/>
-  A Md whatsapp bot best for group Maintaining , changed to private becoz some problems in downloadings
-- 📒 [***nexusNw/NexusNw***](https://github.com/nexusNw/nexusNw) <br/>
-Itz that what You reading / My Readme md.
-
-</details>
-
-----
-
-----
-<img src="https://i.imgur.com/VxXEaXn.jpeg " width="400" />
-<br/>
-
-<b><details><summary>Social platforms</summary></b>
-
-<img src="https://i.imgur.com/I5vTuli.jpeg" height="250" width="500" />
-<br/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/afl_4h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afl_4h" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/n3xu5-53r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="n3xu5-53r" height="30" width="40" /></a>
 </p>
 
-``` Contact Developer ```
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-  <a href="https://instagram.com/Z3NON.Z"><img src="https://img.shields.io/badge/Instagram-E440?style=flat-cirlce&logo=instagram" />
-  <a href="https://github.com/nexusNw"><img src="https://img.shields.io/badge/-GitHub-blue?style=flat-cirlce&logo=github" /> 
-    <a href="https://t.me/N3XU52"><img src="https://img.shields.io/badge/-Telegram-white?style=flat-cirlce&logo=telegram" /> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nexusnw&show_icons=true&locale=en&layout=compact" alt="nexusnw" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nexusnw&show_icons=true&locale=en" alt="nexusnw" /></p>
 
-
-</p>
-
-
-
-
-</details>
-
-
-## <!-- Typing SVG -->
-<p align="center">
-    <a href="https://git.io/J0hKr">
-        <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=TᕼᗩᑎKՏ+ᖴOᖇ+ᐯIՏITIᑎᘜ....."
-            alt="nexusNw Typing SVG"
-
-</p>
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nexusnw&" alt="nexusnw" /></p>
