@@ -37,7 +37,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="227" src="https://i.gifer.com/FQd3.gif"  />
+  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
@@ -56,31 +56,25 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nexusNw/nexusNw/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=nexusNw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="145" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nexusNw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=jolly&hide_border=true&order=2" height="147" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=nexusNw&locale=en&mode=weekly&theme=blue-green&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
-
 <div align="center">
   
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pzh2hlsfrtq4kqu2d44hjkbm2i)
-
+![Musics](https://spotify-recently-played-readme.vercel.app/api?user=31pzh2hlsfrtq4kqu2d44hjkbm2i)
 
 </div>
 
-###
-
-
+<br>
+<hr>
+<h4 align="center">Thanks For Visiting .....<3</h4>
+<hr>
